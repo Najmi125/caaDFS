@@ -1,0 +1,7 @@
+streamlit==1.26.0
+requests==2.31.0
+langchain==0.0.273
+chromadb==0.3.29
+openai==0.27.8
+tiktoken==0.4.0
+pydantic==2.2.1
