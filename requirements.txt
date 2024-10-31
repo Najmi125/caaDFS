@@ -1,7 +1,4 @@
 streamlit
-requests
-langchain
-chromadb
-openai
-tiktoken
-pydantic
+sentence-transformers
+faiss-cpu
+numpy
